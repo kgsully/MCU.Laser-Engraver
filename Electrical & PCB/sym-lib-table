@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "USER_TMC2209")(type "KiCad")(uri "${KIPRJMOD}/Libraries/symbols/TMC2209.kicad_sym")(options "")(descr "Trinamic 2209"))
+)

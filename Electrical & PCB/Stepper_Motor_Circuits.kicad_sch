@@ -6,8 +6,8 @@
 
   (title_block
     (title "Stepper Motor Circuits")
-    (date "2023-03-28")
-    (rev "1.0")
+    (date "2023-04-15")
+    (rev "1.1")
   )
 
   (lib_symbols

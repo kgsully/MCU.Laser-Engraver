@@ -6,8 +6,8 @@
 
   (title_block
     (title "Power Supply - 5V SMPS and 3V3 LDO")
-    (date "2023-04-26")
-    (rev "1.0")
+    (date "2023-04-15")
+    (rev "1.1")
   )
 
   (lib_symbols

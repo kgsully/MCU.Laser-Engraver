@@ -644,7 +644,7 @@
       (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
     )
     (path "/19a98ac7-0fe7-45ff-96ec-02407f820661/248187b4-0610-436d-b6e6-209ef8c9a741"
-      (reference "C1") (unit 1) (value "47u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C1") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/19a98ac7-0fe7-45ff-96ec-02407f820661/411addb7-d8e9-42c5-9e70-e45840056b8b"
       (reference "C2") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -820,6 +820,9 @@
     (path "/19a98ac7-0fe7-45ff-96ec-02407f820661/701d922b-e86e-4418-bffb-342847fd8bd9"
       (reference "J21") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
+    (path "/19a98ac7-0fe7-45ff-96ec-02407f820661/f23cc061-9aa9-4fad-8196-67cc4e4c44d2"
+      (reference "J22") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+    )
     (path "/19a98ac7-0fe7-45ff-96ec-02407f820661/e06192c8-9a7f-43c5-bfbb-3ac8b3799a21"
       (reference "J100") (unit 1) (value "TF-01A") (footprint "USER_TMC2209:TF-01A")
     )
@@ -912,6 +915,12 @@
     )
     (path "/2c0789fa-f62b-40e7-9e83-5aa97ce97a44/f42b620b-2392-486d-a23c-f008c915fcdd"
       (reference "R24") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/19a98ac7-0fe7-45ff-96ec-02407f820661/e09122e1-41f0-4b19-b999-852c5802c11f"
+      (reference "R30") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/19a98ac7-0fe7-45ff-96ec-02407f820661/963c432e-ffaf-4c44-92e3-570333676b21"
+      (reference "R31") (unit 1) (value "XXXR") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/19a98ac7-0fe7-45ff-96ec-02407f820661/efed8249-9cec-4bf6-b4d8-79fb0154b545"
       (reference "R50") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
